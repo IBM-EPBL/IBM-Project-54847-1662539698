@@ -1,0 +1,25 @@
+altgraph==0.17.3
+asttokens==2.0.8
+auto-py-to-exe==2.23.1
+debugpy==1.6.3
+executing==1.1.1
+graphviz==0.16
+idna==3.4
+imageio==2.22.2
+imbalanced-learn==0.8.0
+imblearn==0.0
+imutils==0.5.4
+ipykernel==6.16.0
+ipython==8.5.0
+matplotlib==3.3.3
+matplotlib-inline==0.1.6
+numpy==1.23.4
+oauthlib==3.2.2
+pandas==1.2.1
+parso==0.8.3
+Pillow==9.2.0
+pipreqs==0.4.11
+requests==2.28.1
+rsa==4.9
+urllib3==1.26.12
+gunicorn== 19.9.0
